@@ -7,3 +7,4 @@ b=20;
 int sum=a+b;
 printf("sum is=  %d",sum);
 }
+printf("code completed")
